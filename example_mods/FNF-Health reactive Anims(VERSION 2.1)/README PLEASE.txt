@@ -1,0 +1,1 @@
+ALL OF THESE SCRIPTS WILL WORK WITH 0.7.x versions, idk about 0.6.x though

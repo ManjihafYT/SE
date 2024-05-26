@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				888.888888888889,
+				[
+					[
+						"Set Song Length",
+						"84000",
+						"1, expoOut"
+					]
+				]
+			],
+			[
+				83555.5555555556,
+				[
+					[
+						"Set Song Length",
+						"default",
+						"0, expoOut"
+					]
+				]
+			]
+		]
+	}
+}

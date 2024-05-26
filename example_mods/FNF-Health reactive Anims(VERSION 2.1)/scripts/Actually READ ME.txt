@@ -1,0 +1,6 @@
+If You Don't Want One Of scripts be active Just Put It In The Temp Folder!
+
+If You Want Gf To Follow The Opponents Calculations Instead Of Bf's Then Set GfIsOnOpponentSide
+=true, It's Automatically On false.
+
+The health drain is in the OpponentSplashes(like FNF, Animania).lua file
